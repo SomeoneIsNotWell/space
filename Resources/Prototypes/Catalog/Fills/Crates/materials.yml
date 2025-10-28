@@ -203,3 +203,14 @@
     contents:
       - id: IngotSilver
         amount: 3
+
+- type: entity
+  id: CrateMaterialSilo
+  name: material silo flatpack
+  description: A flatpack for constructing a material silo, allowing storage of materials across the station.
+  parent: CrateEngineeringSecure
+  components:
+  - type: StorageFill
+    contents:
+      - id: MaterialSiloFlatpack
+
