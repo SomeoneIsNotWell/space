@@ -6,7 +6,7 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Command
-      min: 54000 # 15 hours
+      min: 27000 # 7.5 hours
   weight: 20
   startingGear: NanotrasenRepresentativeGear
   icon: "JobIconNanotrasenRepresentative"
@@ -22,7 +22,7 @@
   - Maintenance
   - Engineering
   - Medical
-  - Research  
+  - Research
   - Command
   - NanotrasenRepresentative
   special:

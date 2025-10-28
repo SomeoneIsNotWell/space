@@ -1,0 +1,65 @@
+# Uncategorized
+# Backpacks
+- type: loadout
+  id: LoadoutClothingBackpackBlueshieldMaid
+  category: JobsCommandBlueshieldMaid
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutBlueshieldMaidBackpacks
+    - !type:CharacterJobRequirement
+      jobs:
+        - BlueshieldMaid
+  items:
+    - ClothingBackpackBlueshield
+
+# Belt
+
+# Ears
+
+# Equipment
+
+# Eyes
+
+# Gloves
+
+# Head
+
+# Id
+
+# Neck
+
+# Mask
+
+# Outer
+- type: loadout
+  id: LoadoutClothingBlueshieldMaidArmoredCowboyJacket
+  category: JobsCommandBlueshieldMaid
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutBlueshieldMaidVests
+    - !type:CharacterJobRequirement
+      jobs:
+        - BlueshieldMaid
+  items:
+    - ClothingOuterArmorDuraVest
+
+# Shoes
+
+# Uniforms
+- type: loadout
+  id: LoadoutClothingUniformJumpskirtBlueshieldMaid
+  category: JobsCommandBlueshieldMaid
+  cost: 0
+  exclusive: true
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: LoadoutBlueshieldMaidUniforms
+    - !type:CharacterJobRequirement
+      jobs:
+        - BlueshieldMaid
+  items:
+    - ClothingUniformJumpskirtJanimaidmini

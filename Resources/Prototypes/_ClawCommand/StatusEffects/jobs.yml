@@ -1,0 +1,6 @@
+- type: jobIcon
+  parent: JobIcon
+  id: JobIconBlueshieldMaid
+  icon:
+    sprite: /Textures/_ClawCommand/Interface/Misc/job_icons.rsi
+    state: blueshieldmaid

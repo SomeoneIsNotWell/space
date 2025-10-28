@@ -72,6 +72,7 @@
   - BlueshieldOfficer # Goobstation
   - NanotrasenRepresentative # Goobstation
   - Magistrate # Goobstation
+  - BlueshieldMaid # Claw Command
   primary: false
   weight: 101
 

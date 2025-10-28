@@ -6,10 +6,10 @@
   objective: roles-antag-nuclear-operative-objective
   requirements:
   - !type:CharacterOverallTimeRequirement
-    min: 54000 # Floofstation - 15 hours
-  - !type:CharacterDepartmentTimeRequirement # DeltaV - Security dept time requirement
-    department: Security
-    min: 14400 # Floofstation - 4 hours
+    min: 13500 # Floofstation - 3.75 hours
+  #- !type:CharacterDepartmentTimeRequirement # DeltaV - Security dept time requirement
+  #  department: Security
+  #  min: 14400 # Floofstation - 4 hours
   - !type:CharacterTraitRequirement # Floofstation
     inverted: true
     traits:
@@ -23,10 +23,10 @@
   objective: roles-antag-nuclear-operative-agent-objective
   requirements:
   - !type:CharacterOverallTimeRequirement
-    min: 54000 # Floofstation - 15 hours
+    min: 13500 # Floofstation - 3.75 hours
   - !type:CharacterDepartmentTimeRequirement # DeltaV - Medical dept time requirement
     department: Medical
-    min: 14400 # Floofstation - 4 hours
+    min: 3600 # Floofstation - 1 hours
   - !type:CharacterTraitRequirement # Floofstation
     inverted: true
     traits:
@@ -40,13 +40,13 @@
   objective: roles-antag-nuclear-operative-commander-objective
   requirements:
   - !type:CharacterOverallTimeRequirement
-    min: 54000 # Floofstation - 15 hours
+    min: 13500 # Floofstation - 3.75 hours
   - !type:CharacterDepartmentTimeRequirement # DeltaV - Security dept time requirement
     department: Security
-    min: 14400 # Floofstation - 4 hours
+    min: 3600 # Floofstation - 1 hours
   - !type:CharacterDepartmentTimeRequirement # DeltaV - Command dept time requirement
     department: Command
-    min: 14400 # Floofstation - 4 hours
+    min: 7200 # Floofstation - 2 hours
   - !type:CharacterTraitRequirement # Floofstation
     inverted: true
     traits:

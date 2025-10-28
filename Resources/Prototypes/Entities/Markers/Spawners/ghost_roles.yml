@@ -103,10 +103,10 @@
     rules: ghost-role-information-loneop-rules
     requirements:
     - !type:CharacterOverallTimeRequirement
-      min: 172800 # DeltaV - 48 hours
-    - !type:DepartmentTimeRequirement # DeltaV - Security dept time requirement
-      department: Security
-      time: 36000 # DeltaV - 10 hours
+      min: 10800 # DeltaV - 3 hours
+    #- !type:DepartmentTimeRequirement # DeltaV - Security dept time requirement
+    #  department: Security
+    #  time: 36000 # DeltaV - 10 hours
   - type: Sprite
     sprite: Markers/jobs.rsi
     layers:

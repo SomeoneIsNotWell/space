@@ -6,10 +6,10 @@
   requirements:
     - !type:DepartmentTimeRequirement
       department: Medical
-      min: 21600 # 6 hrs
+      min: 10800 # 3 hrs
     - !type:DepartmentTimeRequirement
       department: Security
-      min: 18000 # 4 hrs
+      min: 9000 # 2 hrs
   startingGear: CorpsmanGear
   icon: "JobIconBrigmedic"
   supervisors: job-supervisors-hos

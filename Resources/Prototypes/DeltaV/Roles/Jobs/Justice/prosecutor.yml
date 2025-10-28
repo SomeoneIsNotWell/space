@@ -5,7 +5,7 @@
   playTimeTracker: JobProsecutor
   requirements:
     - !type:CharacterOverallTimeRequirement
-      min: 36000 # 10 hrs
+      min: 9000 # 2.5hrs
   startingGear: ProsecutorGear
   icon: "JobIconProsecutor"
   supervisors: job-supervisors-cj

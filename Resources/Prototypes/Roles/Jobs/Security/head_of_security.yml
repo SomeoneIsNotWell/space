@@ -9,7 +9,7 @@
       min: 14400 # Floofstation - 4 hour
     - !type:CharacterDepartmentTimeRequirement # DeltaV - Command dept time requirement
       department: Security
-      min: 57600 # Floofstation - 16 hour
+      min: 14400 # Floofstation - 4 hour
   weight: 10
   startingGear: HoSGear
   icon: "JobIconHeadOfSecurity"

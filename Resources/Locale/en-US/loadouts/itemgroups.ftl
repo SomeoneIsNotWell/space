@@ -88,6 +88,11 @@ character-item-group-LoadoutBlueshieldOfficerBackpacks = Blueshield Officer Back
 character-item-group-LoadoutBlueshieldOfficerVests = Blueshield Officer Vests
 character-item-group-LoadoutBlueshieldOfficerUniforms = Blueshield Officer Uniforms
 
+# Dignitary - Blueshield Maid
+character-item-group-LoadoutBlueshieldMaidBackpacks = Blueshield Maid Backpacks
+character-item-group-LoadoutBlueshieldMaidVests = Blueshield Maid Vests
+character-item-group-LoadoutBlueshieldMaidUniforms = Blueshield Maid Uniforms
+
 # Dignitary - Magistrate
 character-item-group-LoadoutMagistrateHead = Magistrate Headgear
 character-item-group-LoadoutMagistrateNeck = Magistrate Neckwear

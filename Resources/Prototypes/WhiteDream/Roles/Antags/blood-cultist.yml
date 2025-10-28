@@ -6,7 +6,7 @@
   objective: roles-antag-blood-cultist-objective
   requirements:
   - !type:CharacterOverallTimeRequirement
-    min: 43200
+    min: 7200 # 2 hours
 
 - type: startingGear
   id: BloodCultistGear
