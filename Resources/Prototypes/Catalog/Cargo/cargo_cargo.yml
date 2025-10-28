@@ -17,3 +17,14 @@
   cost: 15000
   category: cargoproduct-category-name-cargo
   group: market
+
+- type: cargoProduct
+  id: CargoMaterialSilo
+  icon:
+    sprite: Structures/Machines/material_silo.rsi
+    state: material_silo
+  product: CrateMaterialSilo
+  cost: 2500
+  category: cargoproduct-category-name-cargo
+  group: market
+
