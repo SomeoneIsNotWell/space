@@ -285,6 +285,8 @@
       orGroup: Drink
     - id: DrinkWhiskeyBottleFull
       orGroup: Drink
+    - id: DrinkClawtailBottleFull # claw command
+      orGroup: Drink
     - id: DrinkWineBottleFull
       orGroup: Drink
     - id: DrinkChampagneBottleFull

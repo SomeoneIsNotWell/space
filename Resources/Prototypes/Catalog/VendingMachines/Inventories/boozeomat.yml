@@ -41,6 +41,7 @@
     DrinkVermouthBottleFull: 5
     DrinkVodkaBottleFull: 5
     DrinkWhiskeyBottleFull: 5
+    DrinkClawtailBottleFull: 5 # Claw Command
     DrinkWineBottleFull: 5
     DrinkChampagneBottleFull: 2 #because the premium drink
     DrinkSakeBottleFull: 2 # DeltaV - Sake bottle

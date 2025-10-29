@@ -21,6 +21,7 @@
     DrinkTequilaBottleFull: 3
     DrinkVodkaBottleFull: 3
     DrinkWhiskeyBottleFull: 3
+    DrinkClawtailBottleFull: 5 # Claw Command
     #Mixers
     DrinkColaBottleFull: 4
     DrinkCreamCarton: 5

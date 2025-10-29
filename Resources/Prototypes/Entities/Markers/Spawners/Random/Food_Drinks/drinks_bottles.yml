@@ -29,6 +29,7 @@
       - DrinkVermouthBottleFull
       - DrinkVodkaBottleFull
       - DrinkWhiskeyBottleFull
+      - DrinkClawtailBottleFull # Claw Command
       - DrinkWineBottleFull
       - DrinkBeerBottleFull
       - DrinkAleBottleFull

@@ -243,6 +243,7 @@
       - id: DrinkVodkaBottleFull
       - id: DrinkWhiskeyBottleFull
       - id: DrinkWineBottleFull
+      - id: DrinkClawtailBottleFull
 
 - type: entity
   id: CrateServiceBox
