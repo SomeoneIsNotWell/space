@@ -232,13 +232,13 @@
   categories: [ HideSpawnMenu ]
   components:
   - type: StationEvent
-    earliestStart: 30
+    earliestStart: 20
     weight: 7.5
     minimumPlayers: 2 # Floof
     startAnnouncement: true
     endAnnouncement: true
     duration: null #ending is handled by MeteorSwarmRule
-    startDelay: 30
+    startDelay: 10
     conditions: # Floof
     - !type:DepartmentCountCondition
       department: Engineering
