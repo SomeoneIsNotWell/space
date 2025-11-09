@@ -39,10 +39,10 @@
   - type: StationEvent
     weight: 8
     duration: 35
-    conditions: # Floof - at least one epi member
-    - !type:DepartmentCountCondition
-      department: Epistemics
-      range: {min: 1}
+    #conditions: # Floof - at least one epi member
+    #- !type:DepartmentCountCondition
+    #  department: Epistemics
+    #  range: {min: 1}
   - type: AnomalySpawnRule
 
 - type: entity
@@ -239,10 +239,10 @@
     endAnnouncement: true
     duration: null #ending is handled by MeteorSwarmRule
     startDelay: 10
-    conditions: # Floof
-    - !type:DepartmentCountCondition
-      department: Engineering
-      range: {min: 2}
+    #conditions: # Floof
+    #- !type:DepartmentCountCondition
+    #  department: Engineering
+    #  range: {min: 2}
   - type: MeteorSwarmRule
 
 - type: entity
